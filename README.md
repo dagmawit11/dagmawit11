@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dagmawit11
-- 📫 reach me @dagmawit.belay.00@gmail.com
+- 📫 reach me @dagmawitbelay.00@gmail.com
 
 <!---
 dagmawit11/dagmawit11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
